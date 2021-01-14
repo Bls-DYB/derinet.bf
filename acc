@@ -1,0 +1,22 @@
+<!DOCTYPE html> <html lang="fr">
+<head> <meta charset="utf-8" /> 
+<title>acceuil-derinet</title><link rel="stylesheet" type="text/css" href="style.css" media="screen"> </head>
+<body>
+<h1><center><marquee>DERINET®</marquee></center></h1><b><br>
+<center><progress></progress></center>
+<p>Bienvenu sur <strong>DERINET.COM</strong> la plateforme qui vous aide à trouver les solutions à
+vos problèmes</p><br>
+<p><a href="beau/b.html" ><button>BEAUTÉ</button></a></p>
+<p><a href="eco/e.html" ><button>ÉCONOMIE</button></a></p><br>
+<img src="image.jpg" alt="ma photo auprès du rail non loin de chez mon petit" width="176" height="334">
+<h3>Inscrivez-vous afin de bénéficier des avantages mis à votre disposition</h2>
+<b><p>Nom: <input type="text" name="nom" id="nom" placeholder="Ecrivez votre nom de famille ici"></p>
+<p>Prénom : <input type="text" name="prenom" id="prenom" placeholder="Ecrivez vos prénoms ici"></p>
+<p>Sexe: <select name="sexe" id="name"> 
+<option value="pas choisi"></option>
+<option value="masculin">Masculin</option>
+<option value="féminin">Féminin</option></select></p>
+<p>Numéro de tel: <input type="text" placeholder="Mettez votre numéro de téléphone" value="+226 "></p>
+<p>Adresse email : <input type="text" placeholder="adresse g-mail"></p>
+<p>Mot de passe: <input type="password" id="password" placeholder=" secret"></p></b>
+<center><input type="submit" value="Envoyer"></center></h3></b></body></html>
